@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"c94e66cef121be1b","x":694,"y":-353,"width":310,"height":283,"type":"text","text":"# G0 (Gap 0)\nThis is the phase of the cell cycle that cells go when they are in a resting state or waiting for a signal for them to re-enter the cell cycle. This is also where cells are sent when they are mutated or destined for death (Apoptosis)."},
+		{"id":"62c51d964a000d27","x":-650,"y":-432,"width":1167,"height":881,"color":"6","type":"group","label":"Main Cycle"},
+		{"id":"191ae3d796d4e288","x":-630,"y":-141,"width":295,"height":281,"type":"text","text":"# M (Mitosis)\nMitosis ([[Cell Division]]) is the most complex phase while also being the shortest of the 4 main phases. During mitosis the cell goes through 4 different steps, and the result is 2 geneticall identical daughter cells."},
+		{"id":"cbe1083dfc2eb537","x":-275,"y":-432,"width":792,"height":881,"color":"5","type":"group","label":"Interphase"},
+		{"id":"8fe55df4e1a89322","x":183,"y":-141,"width":314,"height":236,"type":"text","text":"# S (Synthesis\nThe second section of the cell cycle, also part of interphase. This is where the DNA replication ([[DNA Unit]]) happens. The amount of DNA that there was in G1 doubles in preparation for mitosis."},
+		{"id":"26e5b8be0fd37d92","x":-255,"y":167,"width":299,"height":262,"type":"text","text":"# G2 (Gap 2)\nThis phase of the cell cycle is similar in length to G1. It is still growth, but it is more in preparation for mitosis, where the cell produces more organelles to make sure it has enough for each daughter cell."},
+		{"id":"0cbf5eca125e8edd","x":-255,"y":-412,"width":299,"height":211,"type":"text","text":"# G1 (Gap 1)\nThe longest section of the cell cycle. This is where the main chunk of the cellular growth happens and is the first part of the cell cycle and interphase\n"},
+		{"id":"0538cf0dfff18a4e","x":-1232,"y":575,"width":418,"height":214,"type":"text","text":"# Prophase\nProphase is the first phase of mitosis. The chromatin condenses into chromosomes within the nucleus, the nuclear envelope begins to break down, the centrioles move to opposite sides of the cell, and the spindle fibers begin to form."},
+		{"id":"6523654a549cba78","x":-736,"y":575,"width":355,"height":237,"type":"text","text":"# Prometaphase\nPrometaphase is the preparatory phase for metaphase. During prometaphase, the nuclear envelope fully breaks down, and the chromosomes are slowly brought to the middle of the cell by the splindle fibers or microtubules."},
+		{"id":"26fa391a180d822b","x":49,"y":575,"width":291,"height":287,"type":"text","text":"# Anaphase\nAnaphase is the phase where the sister chromatids are brought to opposite ends of the cell by the spindle fibers. There was a way to remember it but I kinda forgot. This is in preparation for the actual splitting of the cell."},
+		{"id":"eb8124c4757a7e13","x":393,"y":575,"width":306,"height":265,"type":"text","text":"# Telophase\nTelophase is the last/second to last phase of mitosis where the nuclear envelope begins to form and the two distinct daughter cells start to become visible. The cleavage furrow also starts to form."},
+		{"id":"7f16c61d64613094","x":738,"y":564,"width":359,"height":288,"type":"text","text":"# Cytokinesis\nCytokinesis can take place during or after telophase, and it is the real final stage of mitosis. The nuclear envelope of both cells are fully formed, the sister chromatids have uncoiled into chromatin, and the two cells are fully cut in two to form two genetically identical daughter cells."},
+		{"id":"36a867cd2c9af6e8","x":-334,"y":575,"width":342,"height":265,"type":"text","text":"# Metaphase\nChromosomes are fully lined up along the center of the cell during metaphase. The spindle fibers from the centrosomes are attached to the chromosomes as well. This can be remembered by the M being Middle, like middle-phase."},
+		{"id":"632d24beb76da87d","x":-1252,"y":544,"width":2369,"height":338,"color":"1","type":"group","label":"Mitosis"}
+	],
+	"edges":[
+		{"id":"f47853fc647d5685","fromNode":"0cbf5eca125e8edd","fromSide":"right","toNode":"8fe55df4e1a89322","toSide":"top"},
+		{"id":"b8b85133a372629d","fromNode":"0cbf5eca125e8edd","fromSide":"right","toNode":"c94e66cef121be1b","toSide":"top"},
+		{"id":"0a18babf8aab3f56","fromNode":"8fe55df4e1a89322","fromSide":"bottom","toNode":"26e5b8be0fd37d92","toSide":"right"},
+		{"id":"f49751a70b9c4bf5","fromNode":"26e5b8be0fd37d92","fromSide":"left","toNode":"191ae3d796d4e288","toSide":"bottom"},
+		{"id":"d2c7d49ceb980276","fromNode":"191ae3d796d4e288","fromSide":"top","toNode":"0cbf5eca125e8edd","toSide":"left"},
+		{"id":"24ea6f99788c3890","fromNode":"0538cf0dfff18a4e","fromSide":"right","toNode":"6523654a549cba78","toSide":"left"},
+		{"id":"81ce30a8bcabb007","fromNode":"6523654a549cba78","fromSide":"right","toNode":"36a867cd2c9af6e8","toSide":"left"},
+		{"id":"aed08b1ce41ec9ec","fromNode":"36a867cd2c9af6e8","fromSide":"right","toNode":"26fa391a180d822b","toSide":"left"},
+		{"id":"e45aa4772adb8648","fromNode":"26fa391a180d822b","fromSide":"right","toNode":"eb8124c4757a7e13","toSide":"left"},
+		{"id":"144e1f2bb2f1be87","fromNode":"eb8124c4757a7e13","fromSide":"right","toNode":"7f16c61d64613094","toSide":"left"}
+	]
+}
