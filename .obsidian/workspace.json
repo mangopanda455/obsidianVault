@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "502e07ec9429bbf1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Bio 513/Pasted image 20230117114151.png"
+              }
+            }
           }
         ]
       }
@@ -69,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "313e7d9598beef80",
@@ -180,17 +191,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f78c48cfbd6a636a",
+  "active": "18f56a78fd29f392",
   "lastOpenFiles": [
-    "Bio 513/Pasted image 20230117114151.png",
-    "Pasted image 20230117114145.png",
-    "Bio 513/Pasted image 20230117114254.png",
     "Bio 513/Cell Cycle.canvas",
+    "Untitled.md",
     "Bio 513/DNA Unit.md",
+    "Bio 513/Pasted image 20230117114151.png",
     "Bio 513/Biology.md",
     "Bio 513/Cell Division.md",
+    "Pasted image 20230117114145.png",
+    "Bio 513/Pasted image 20230117114254.png",
     "2023-01-15.md",
-    "Untitled.md",
     "Untitled.canvas"
   ]
 }

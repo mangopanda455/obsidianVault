@@ -162,3 +162,31 @@ Lagging strand:
 
 
 
+
+$$\left(\frac{x^3}{z^{-2}}\right)$$
+
+1/18/23
+<u>Do Now:</u> What is the function of DNA polymerase I in DNA replication?
+
+Replaces the RNA primer with DNA nucleotides
+DNA polymerase III does most of the adding of the nucleotides. DNA primase lays down RNA primers.
+
+- <u>Mismatch repair:</u> special repair enzymes fix incorrectly paired nucleotides
+- <u>Nucleotide excision repair</u>:
+	- Enzymes called nucleases cut out (excise) incorrectly places nucleotides
+	- Gaps leftover are filled in with the correct nucleotides
+
+
+<h3>Replicating the ends of the DNA molecules</h3>
+- Since DNA polymerase can only add nucleotides to the 3' end of a molecule there is no way to complete the 5' ends
+	- repeated rounds of replication produce shorter DNA molecules (shorter chromosomes)
+- To avoid losing the terminal (end) genes, the end of the chromosome is capped with <u>telomeres:</u> short, repetitive nucleotide sequences that do not contain genes
+
+RNA primer to tell polymerase where to start, but once the primer is removed, we cannot add more nucleotides on the 5' to 3' section, so every round of replication will cause shorter and shorter strands, but telomeres are added so that the only thing lost is the nonsense with no genes.
+
+1. Allows the loose strands of DNA to be attracted to each other and form bonds with one another. Also prevents mutations by only letting two pair to each other. Allows for semi-conservative replication because of the complementary base pairing rule.
+2. Finds and attaches to RNA primers, and then adds complementary nucleotides.
+3. It removes the RNA primer and replaces it with DNA nucleotides.
+4. It prevents the 5' end from getting shorter and shorter with every replication, because DNA polymerase I and III only work in the 5' to 3' direction.
+
+
