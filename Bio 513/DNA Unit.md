@@ -190,3 +190,4 @@ RNA primer to tell polymerase where to start, but once the primer is removed, we
 4. It prevents the 5' end from getting shorter and shorter with every replication, because DNA polymerase I and III only work in the 5' to 3' direction.
 
 
+Single strand binding proteins help to keep DNA open at the replication fork.
